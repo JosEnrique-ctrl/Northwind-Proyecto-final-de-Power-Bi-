@@ -13,3 +13,8 @@ El dashboard se compone de 2 páginas principales:
 1.- Vista general (Todos los gráficos dinámicos sobre las ventas de la empresa).
 
 2.- Detalles por cliente (Tabla con información de los pedidos agrupados por cliente, monto, etc).
+
+## Herramientas utilizadas.
+*Power Bi desktop.
+
+*Base de datos proporcionada.
